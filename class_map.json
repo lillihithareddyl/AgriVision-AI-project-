@@ -1,0 +1,7 @@
+{
+  "_comment": "Maps normalised folder names (lowercase, underscores, no trailing _leaf) to a shared class name. Run check_data.py to see mismatches, then add them here.",
+  "freshapples": "fresh_apple", "freshbanana": "fresh_banana", "freshoranges": "fresh_orange",
+  "rottenapples": "rotten_apple", "rottenbanana": "rotten_banana", "rottenoranges": "rotten_orange",
+  "fresh_apples": "fresh_apple", "fresh_bananas": "fresh_banana", "fresh_oranges": "fresh_orange",
+  "rotten_apples": "rotten_apple", "rotten_bananas": "rotten_banana", "rotten_oranges": "rotten_orange"
+}
